@@ -1,3 +1,4 @@
 hostname
 whoami
 echo "Testing a script"
+echo "adding a line"
